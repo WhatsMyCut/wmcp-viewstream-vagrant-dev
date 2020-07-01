@@ -1,0 +1,6 @@
+.vagrant
+!Vagrantfile
+!scripts/
+!repos/
+repos/*
+raw_files/
